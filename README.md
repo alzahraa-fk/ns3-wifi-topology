@@ -26,3 +26,12 @@ Simulation Done! 20 packets sent to Node 4
 ```bash
 NS_LOG=SimpleWifiTopology=info ./ns3 run simple
 ```
+
+## Screenshot
+<img width="842" height="970" alt="image" src="https://github.com/user-attachments/assets/b6461ee1-53c9-4640-bc99-2fbccba81830" />
+
+
+
+
+
+
